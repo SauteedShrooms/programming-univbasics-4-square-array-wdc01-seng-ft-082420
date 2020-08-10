@@ -3,7 +3,7 @@ def square_array(array)
   new_array = []
   
   numbers.length.times do 
-    new_array.push(array[index] **[index])
+    new_array.push
   end
   new_array
 end
